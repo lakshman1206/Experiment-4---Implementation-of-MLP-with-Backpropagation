@@ -143,7 +143,7 @@ print(predictions)
 print(confusion_matrix(y_test,predictions))
 print(classification_report(y_test,predictions))
 ```
-Developed by:Lakshmana rao s
+Developed by: Suvvari Lakshmana rao 
 Reg no:212221040168
 
 ## OUTPUT
